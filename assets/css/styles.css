@@ -216,11 +216,17 @@ h3 {
   margin-top: 26px;
 }
 
-.contact-list span {
+.contact-list span,
+.contact-list a {
   padding: 10px 12px;
   border: 1px solid rgba(255, 255, 255, 0.18);
   border-radius: 6px;
   color: #dbeafe;
+}
+
+.contact-list a:hover {
+  border-color: rgba(255, 255, 255, 0.42);
+  color: #ffffff;
 }
 
 .site-footer {
