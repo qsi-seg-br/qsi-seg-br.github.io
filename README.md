@@ -31,5 +31,3 @@ Repositório esperado para GitHub Pages:
 ```text
 qsi-seg-br/qsi-seg-br.github.io
 ```
-# qsi-seg-br.github.io
-Site institucional da QSI — Queiroga Soluções em TI.
