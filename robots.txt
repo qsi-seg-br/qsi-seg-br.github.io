@@ -1,4 +1,4 @@
 User-Agent: *
 Allow: /
 
-Sitemap: https://qsi.seg.br/sitemap.xml
+Sitemap: https://queirogasolution.com.br/sitemap.xml
